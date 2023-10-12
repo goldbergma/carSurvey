@@ -4,9 +4,11 @@ print("=========================================================================
 # Welcome Message
 print("                        Welcome to UMBC Auto World")
 print("     Please answer a few questions so that we can get you the exact car you want!")
+
 # Prints a line of equal signs
 print("====================================================================================")
 print()
+
 # Make and Model 
 print("1. What Make and Model of car intrests you?")
 print("  a. Honda Civic")
@@ -36,6 +38,7 @@ print()
 optionSunroof = input("5. Would you like a Sunroof? (Yes or No)")
 print()
 print()
+
 #  Time Line
 purchaseTimeLine = input("6. Are you looking to purchase this car within the next two weeks? (Yes or No)")
 print()
